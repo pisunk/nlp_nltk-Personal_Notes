@@ -5,9 +5,6 @@ python自然语言处理个人笔记
 https://apachecn.github.io/home/read/nlp-2-python-nltk/
 ## 中文python自然语言处理阅读地址
 https://usyiyi.github.io/nlp-py-2e-zh/
-## 分享和感谢
-分享一本nlp相关理论书籍：人工智能与专家系统（尹朝庆、尹皓编著，中国水利水电出版社）
-
 感谢片哥和群友的交流学习
 ## 个人信息
 QQ 734885950
