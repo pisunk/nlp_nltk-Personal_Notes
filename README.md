@@ -6,5 +6,3 @@ https://apachecn.github.io/home/read/nlp-2-python-nltk/
 ## 中文python自然语言处理阅读地址
 https://usyiyi.github.io/nlp-py-2e-zh/
 感谢片哥和群友的交流学习
-## 个人信息
-QQ 734885950
